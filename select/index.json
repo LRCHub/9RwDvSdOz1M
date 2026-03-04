@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アボイドノート",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-04T08:36:06.394169Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アボイドノート",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_アボイドノート_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
